@@ -113,12 +113,12 @@ enableEmoji = true
   [[menu.header]]
     name = "Case Studies"
     title = "Case Studies"
-    url = "/casestudies/"
+    url = "/project/"
     weight = 3
   [[menu.header]]
     name = "Learning"
     title = "Learning"
-    url = "/learning/"
+    url = "/talk/"
     weight = 4
     
   # Configure footer  
