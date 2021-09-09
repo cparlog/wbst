@@ -102,7 +102,7 @@ enableEmoji = true
 [menu]
   [[menu.header]]
     name = "About"
-    title = "About Blogophonic"
+    title = "About"
     url = "/about/"
     weight = 1
   [[menu.header]]
@@ -111,14 +111,14 @@ enableEmoji = true
     url = "/blog/"
     weight = 2
   [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
-    url = "/project/"
+    name = "Case Studies"
+    title = "Case Studies"
+    url = "/casestudies/"
     weight = 3
   [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
+    name = "Learning"
+    title = "Learning"
+    url = "/learning/"
     weight = 4
     
   # Configure footer  
