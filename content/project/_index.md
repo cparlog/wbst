@@ -1,7 +1,8 @@
 ---
-title: A Project Portfolio To Grow
-description: "Give your projects a place to live online."
-author: "The R Markdown Team @RStudio"
+title: My Project Portfolio 
+description: "Here you can find a sample of my completed projects. 
+I start with two project where I do some data analyses using data from my former published research. My latest project is part of my Master`s dissertation where I used R from the begging and throughout of the data analysis cycle. "
+author: "Cosmin Parlog"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: false
