@@ -1,10 +1,10 @@
 ---
 title: "Cosmin Parlog"
 subtitle: "Ecological Engineer | Researcher"
-description: "This is my personal website which I use to showcase some of my finished projects and where I share my learning journey into various STEM topics and skills "
+description: "This is my personal website which I use to showcase some of my finished projects and where I share my learning journey into various STEM topics and skills."
 date: 2021-09-10T12:27:33-06:00
 images:
-  - img/revoir.jpg
+  - img/cover_home.png
 image_left: false
 text_align_left: false
 show_social_links: true # specify social accounts in site config
