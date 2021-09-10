@@ -1,19 +1,19 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Emily Cooper"
-role: "Social media strategy @ Savoir"
+author: "Cosmin Parlog"
+role: "Ecological Engineer| Researcher"
 avatar_shape: rounded # circle, square, rounded
 show_social_links: true # specify social accounts in site config
 show_audio_link: true
 audio_link_label: "How to say my name"
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
-- name: Paris
-  url: https://en.wikipedia.org/wiki/Paris
-- name: Pastries
-  url: https://en.wikipedia.org/wiki/Pastry
-- name: People
-  url: https://en.wikipedia.org/wiki/People
+- name: Biodiversity
+  url: https://eol.org/
+- name: Data Analysis
+  url: https://www.facebook.com/groups/ecologyinr/permalink/679383149591250/
+- name: Underwater Acoustics
+  url: https://dosits.org/
 ---
 
 ** index doesn't contain a body, just front matter above.
