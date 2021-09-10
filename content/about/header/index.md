@@ -3,8 +3,8 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Emily Cooper. Nice to meet you.
+  Hello, my name is Cosmin Parlog. Welcome to my website!
 ---
 
 <!-- this is a subheadline -->
-I'm a driven 20-something American from Chicago who moved to Paris for an unexpected job opportunity. I've been tasked with bringing an American point of view to a venerable French marketing firm. :fr:
+I`m a 30-something Romanian guy currently living in Bucharest and exploring the current opportunities for work in Environmental Protection Sector. I want to use my research and professional competences that I gained during my studies of Water Management in the Netherlands and work experience in Academia, and at a National Research and Development Institute in order to come up with innovation and sustainable solutions for an organization in this sector. 
