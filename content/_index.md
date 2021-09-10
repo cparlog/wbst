@@ -5,7 +5,7 @@ description: "This is my personal website which I use to showcase some of my fin
 date: 2019-02-18T12:27:33-06:00
 images:
   - img/cover_home.png
-image_left: false
+image_left: true
 text_align_left: false
 show_social_links: true # specify social accounts in site config
 show_action_link: true
