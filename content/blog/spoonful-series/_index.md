@@ -11,11 +11,10 @@ layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: A Spoonful of Hugo
-  author: Alison Hill
+  title: Under construction
+  author: Cosmin Parlog
   description: |
-    A forking fun new feature for series.
-    Even this sidebar offers a ton of customizations!
+    Description here
     
     Check out the _index.md file in the /blog/spoonful-series
     folder to edit this content.
@@ -26,8 +25,8 @@ sidebar:
 # set up common front matter for all individual pages in series
 cascade:
   layout: single-series       # for a series, do not change
-  series: A Spoonful of Hugo  # name your series
-  author: Alison Hill
+  series: Urban Ecology  # name your series
+  author: Cosmin Parlog
   show_author_byline: true
   show_post_date: true
   sidebar:
