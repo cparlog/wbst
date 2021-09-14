@@ -1,10 +1,10 @@
 ---
 ## Configure sidebar content in narrow column
 author: "Cosmin Parlog"
-role: "Ecological Engineer| Researcher"
-avatar_shape: rounded # circle, square, rounded
+role: "Ecological Engineer"
+avatar_shape: circle # circle, square, rounded
 show_social_links: true # specify social accounts in site config
-show_audio_link: FALSE # change this
+show_audio_link: false # change this
 audio_link_label: "How to say my name"
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
