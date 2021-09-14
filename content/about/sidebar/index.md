@@ -4,7 +4,7 @@ author: "Cosmin Parlog"
 role: "Ecological Engineer| Researcher"
 avatar_shape: rounded # circle, square, rounded
 show_social_links: true # specify social accounts in site config
-show_audio_link: true
+show_audio_link: FALSE # change this
 audio_link_label: "How to say my name"
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
