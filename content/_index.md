@@ -1,6 +1,6 @@
 ---
 title: "Cosmin Parlog"
-subtitle: "Ecological Engineer | Researcher"
+subtitle: "Ecological Engineer"
 description: "This is my personal website which I use to showcase some of my finished projects and where I share my learning journey into various STEM topics and skills"
 date: 2019-02-18T12:27:33-06:00
 images:
@@ -17,3 +17,4 @@ type: home
 
 ** index doesn't contain a body, just front matter above.
 See index.html in the layouts folder **
+library
