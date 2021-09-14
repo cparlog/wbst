@@ -1,30 +1,31 @@
 ---
-title: "A campfire"
+title: "Learn the basics of R with Chuck`s Lanfear courses"
 subtitle: "Testing"
-excerpt: "Here is a talk I gave on making awesome personal websites using Hugo, blogdown, GitHub, and Netlify."
-date: 2021-01-12
-date_end: "2021-01-13"
+excerpt: "Although the course`s name is "Introduction to R for Social Scientists" it is much more than that and it teaches you the basic to intermediate (soemtimes advanced) techniques for data science that you can use in any field. This is the most complete, funny and free resource that I found on the internet for learning R. "
+date: 
+date_end: 
 show_post_time: false
-event: "rstudio::global(2021)"
+event: "Learn R with Chuck Lanfear"
 event_url: https://global.rstudio.com
-author: "Alison Hill"
-location: "Sydney, Australia"
+author: "Cosmin Parlog"
+location: "Youtube"
 draft: false
 # layout options: single, single-sidebar
 layout: single
 categories:
 - workshop
 links:
-- icon: door-open
-  icon_pack: fas
+- icon: youtube
+  icon_pack: fab
   name: website
-  url: https://bakeoff.netlify.com/
+  url: https://www.youtube.com/channel/UC9o3UMJwzKDMmvo6lh_ppiA/videos
 - icon: github
   icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
+  name: Course outline and data
+  url: https://clanfear.github.io/CSSS508/
 ---
 
-{{< here >}}
 
-I'm really excited to give this talk! Stay tuned for video and slides.
+
+The best free course out there. 
+Will come back with mroe details

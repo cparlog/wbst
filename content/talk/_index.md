@@ -1,8 +1,8 @@
 ---
-title: Talks that Last
+title: Learning resources
 description: |
-  This is a list for your talks, workshops, or other events with a time, date, and place.
-author: "The R Markdown Team @RStudio"
+  Here I share online resources that I find interesting and useful
+author: "Cosmin Parlog"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
